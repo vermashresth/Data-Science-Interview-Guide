@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Edge Case: Nested and Mixed Lists"
-date: 2019-17-02
 categories:
   - Edge Case
 tags:
